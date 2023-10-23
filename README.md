@@ -235,6 +235,7 @@ form action="proses.php" method="post">
     </style>
 ```
 
+![image](https://github.com/sayaveni04/lab3web/assets/115862597/5d7727da-c7b6-4deb-a0f8-e4626c64bbab)
 
 
 ### Pertanyaan dan Tugas
